@@ -77,6 +77,15 @@ h2 {
     margin-bottom: 20px;
 }
 
+h3 {
+    font-size: 20px; 
+    font-weight: bold;
+    color: rgb(4, 163, 155);
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+
+}
+
 footer {
     background-color: #0077b6;
     color: white;
