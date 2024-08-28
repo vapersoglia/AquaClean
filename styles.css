@@ -131,7 +131,7 @@ footer {
     font-size: 1em;
     color: #0077b6; 
 }
-.pibes-laburando {
+.imagenes-proyecto {
     width: 250px; 
     height: auto; 
     object-fit: cover; 
@@ -141,4 +141,15 @@ footer {
     gap: 10px;
     margin-right: 10px;
     margin-left: 15px;
+}
+.slider {
+    display: flex;
+    overflow-x: scroll;
+    white-space: nowrap;
+    gap: 10px;
+}
+
+.slider video,
+.slider img {
+    flex: 0 0 auto;
 }
